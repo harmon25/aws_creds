@@ -25,3 +25,7 @@ aws_creds-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+.iex.exs
+
+.elixir_ls
